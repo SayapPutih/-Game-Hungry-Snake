@@ -1,1 +1,1 @@
-# -Game-Hungry-Snake
+Hungry Snake
